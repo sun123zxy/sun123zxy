@@ -13,4 +13,4 @@ My mathematical interest arise from competitive programming, of which I had been
 
 Having been coding since my childhood, I still enjoy programming and software development, especially if it benefits mathematical research around me. I have a wide range of programming experience, including competitive programming, formalization of mathematics in Lean 4, web development and command-line tools. As a recreational activity, I like experimenting with academic publishing systems, being an everyday user of LaTeX, Markdown, Pandoc and Quarto.
 
-You may see an overview of my personal projects at my [Project Showcase](https://blog.sun123zxy.top/listings/projects/). [A detailed CV](cv.qmd) is also hosted online.
+You may see an overview of my personal projects at my [Project Showcase](https://blog.sun123zxy.top/listings/projects/). [A detailed CV](https://scholar.sun123zxy.top/) is also hosted online.
