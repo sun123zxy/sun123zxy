@@ -7,7 +7,7 @@
 
 ## Hello there!
 
-I'm Xingyu Zhong (钟星宇), an undergraduate student major in Mathematics at Beijing Institute of Technology enrolled in 2022. I will be a master student majoring in Mathematics in the National University of Singapore starting from 2026.
+I'm Xingyu Zhong (钟星宇), a master student majoring in Mathematics in the National University of Singapore starting from 2026. I was an undergraduate major in Mathematics in Beijing Institute of Technology.
 
 My mathematical interest arise from competitive programming, of which I had been a participant since my primary school. Algebra, combinatorics and formalization of mathematics fascinate me the most. My undergraduate thesis surveys the classification and the dominance order of the nilpotent orbits in classical Lie algebras, which guides me to the rich world of geometric representation theory. With collaboration of AI, some of the results are formalized in Lean 4. As the dawn of the AI productivity revolution breaks over the mathematical community, I embrace with excitement the new horizons it reveals for mathematical research.
 
